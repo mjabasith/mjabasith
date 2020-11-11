@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello 👋
+I am a team player with a can-do attitude who is constantly learning something new each day. Good at Design, development and deployment of applications. Looking for opportunities to apply my knowledge and gain industry experience. 
 
+📫 Reach me via https://www.linkedin.com/in/mjabasith/
 <!--
 **mjabasith/mjabasith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
